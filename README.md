@@ -1,6 +1,12 @@
 # Stationery Management System
 
-A command-line inventory system for a stationery business, built with **Python, SQLite, Pandas, NumPy, and Matplotlib**. It manages products, suppliers, customers, purchases, and sales, keeps stock accurate, and generates reports and charts from transaction data.
+[![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)](https://matplotlib.org/)
+
+A command-line inventory system for a stationery business, built with Python, SQLite, Pandas, NumPy, and Matplotlib. It manages products, suppliers, customers, purchases, and sales, keeps stock accurate, and generates reports and charts from transaction data.
 
 ## Tech Stack
 
